@@ -32,7 +32,11 @@ table{
 }
 th, td {
 	padding: 5px;
+	width: 200px;
 
+}
+#second_column {
+	width: 400px;
 }
 .center {
     display: block;
