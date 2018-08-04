@@ -37,6 +37,9 @@ th, td {
 	width: 250px;
 
 }
+.column {
+	width: 250px;
+}
 .second_column {
 	width: 400px;
 }
