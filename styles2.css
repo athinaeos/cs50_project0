@@ -52,26 +52,23 @@ th, td {
 .third_column {
   width: 300px; }
 
-.center {
+.center, .center1, .center2, .center3 {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 60%;
   font-family: sans-serif; }
+
+.center {
+  width: 60%; }
 
 .center1 {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 40%;
-  font-family: sans-serif; }
+  width: 40%; }
 
 .center2 {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 30%;
-  font-family: sans-serif; }
+  width: 30%; }
+
+.center3 {
+  width: 20%; }
 
 #list {
   font-family: sans-serif;
@@ -95,5 +92,10 @@ th, td {
   font-family: sans-serif;
   color: #000c88;
   text-align: center; }
+
+#middle2 {
+  font-size: 16px; }
+  #middle2 ul {
+    color: black; }
 
 /*# sourceMappingURL=styles2.css.map */
